@@ -1,0 +1,88 @@
+h2{
+  margin-left: auto;
+  margin-right: auto;
+}
+#atas{
+  background-color: #cae8d5;
+}
+.navbar-brand{
+  color: black;
+  font-family: cursive;
+  font-size: 3rem;
+
+}
+.container-fluid{
+padding: 5% 25%;
+padding-bottom: 5%;
+
+}
+.navbar-brand{
+  font-family: 'Satisfy', cursive;
+
+}
+.img{
+  width: 100%;
+  position: absolute;
+
+}
+.img2, .img3{
+width: auto;
+height: 400px;
+max-height: 400px;
+}
+
+#tengah{
+
+  padding: 7% 15%;
+  background-color:#f1ebbb;
+
+
+
+}
+.navbar{
+  padding-bottom: 200px;
+}
+.good{
+
+}
+.judul1{
+  padding-top: 10%;
+  font-size: 3rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Indie Flower', cursive;
+
+}
+.para1{
+  padding-top: 10%;
+  text-align: center;
+  font-size: 1rem;
+}
+.col1{
+  margin-left: auto;
+  margin-right: auto;
+}
+#daftar{
+background-color: #f1ebbb;
+}
+#berita{
+
+  text-align: center;
+}
+.card{
+  background-color: #f1ebbb;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
+}
+.best{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  font-family: 'Indie Flower', cursive;
+}
+.carousel-item{
+  padding: 5% 17%;
+}
