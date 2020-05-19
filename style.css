@@ -26,6 +26,7 @@ padding-bottom: 5%;
 
 }
 .img2, .img3{
+  padding-top: 30px;
 width: auto;
 height: 400px;
 max-height: 400px;
@@ -47,12 +48,18 @@ max-height: 400px;
 }
 .judul1{
   padding-top: 10%;
+  padding-bottom: 10px;
   font-size: 3rem;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   font-family: 'Indie Flower', cursive;
 
+
+}
+.jdl{
+  padding-bottom: 20px;
+  margin-bottom: 90px;
 }
 .para1{
   padding-top: 10%;
@@ -63,12 +70,34 @@ max-height: 400px;
   margin-left: auto;
   margin-right: auto;
 }
+.ptabel{
+ text-align: center;
+ padding-top: 45px;
+ line-height: 2;
+ margin-left: 0;
+ font-weight: bold;
+}
+.container{
+  text-align: center;
+}
+
 #daftar{
 background-color: #f1ebbb;
 }
 #berita{
 
   text-align: center;
+}
+#footer{
+  text-align: center;
+  background-color: #d6e6f2;
+  padding: 7% 15%;
+}
+.social{
+  margin: 20px 10px;
+}
+.pfoot{
+color: grey;
 }
 .card{
   background-color: #f1ebbb;
