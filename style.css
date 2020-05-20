@@ -31,6 +31,18 @@ width: auto;
 height: 400px;
 max-height: 400px;
 }
+.img4{
+  padding-top: 30px;
+width: auto;
+height: 500px;
+max-height: 500px;
+}
+.img5{
+  padding-top: 200px;
+width: auto;
+height: 500px;
+max-height: 500px;
+}
 
 #tengah{
 
@@ -64,7 +76,7 @@ max-height: 400px;
 .para1{
   padding-top: 10%;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .col1{
   margin-left: auto;
@@ -114,4 +126,16 @@ color: grey;
 }
 .carousel-item{
   padding: 5% 17%;
+}
+.nav-link{
+  font-size: 1.5rem;
+}
+.map{
+  text-align: center;
+
+}
+.map1{
+padding-top: 50px;
+width: 50%;
+
 }
